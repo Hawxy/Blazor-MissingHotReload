@@ -1,4 +1,6 @@
 
+using System;
+
 namespace BlazorApp2.Shared;
 public class WeatherForecast
 {
